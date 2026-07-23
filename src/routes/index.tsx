@@ -547,7 +547,6 @@ const BENEFITS = [
   "Mais de 8 mil atendimentos",
   "Direcionamento verdadeiro",
   "Ambiente acolhedor",
-  "Atendimento humanizado",
 ];
 
 function Benefits() {
