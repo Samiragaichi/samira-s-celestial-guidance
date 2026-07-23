@@ -248,7 +248,7 @@ function Hero() {
               rel="noopener noreferrer"
               className="btn-gold inline-flex items-center justify-center gap-2 rounded-full px-8 py-4 text-sm uppercase tracking-widest"
             >
-              <MessageCircle className="h-4 w-4" />
+              <WhatsAppIcon className="h-4 w-4" />
               Agendar no WhatsApp
             </a>
             <a
@@ -410,7 +410,7 @@ function About() {
             rel="noopener noreferrer"
             className="btn-gold mt-8 inline-flex items-center gap-2 rounded-full px-7 py-3.5 text-xs uppercase tracking-widest"
           >
-            <MessageCircle className="h-4 w-4" /> Falar com Samira
+            <WhatsAppIcon className="h-4 w-4" /> Falar com Samira
           </a>
         </div>
       </div>
@@ -487,7 +487,7 @@ function Services() {
 }
 
 const STEPS = [
-  { icon: MessageCircle, text: "Clique no WhatsApp" },
+  { icon: WhatsAppIcon, text: "Clique no WhatsApp" },
   { icon: HandHeart, text: "Conte sua situação" },
   { icon: Wand2, text: "Escolha sua consulta" },
   { icon: Sparkles, text: "Receba seu atendimento online" },
@@ -715,7 +715,7 @@ function FinalCta() {
           rel="noopener noreferrer"
           className="btn-gold mt-10 inline-flex items-center gap-3 rounded-full px-10 py-5 text-sm uppercase tracking-[0.25em]"
         >
-          <MessageCircle className="h-5 w-5" /> Agendar pelo WhatsApp
+          <WhatsAppIcon className="h-5 w-5" /> Agendar pelo WhatsApp
         </a>
       </div>
     </section>
@@ -776,7 +776,7 @@ function Footer() {
             aria-label="WhatsApp"
             className="glass grid h-10 w-10 place-items-center rounded-full text-wine transition-transform hover:-translate-y-0.5"
           >
-            <MessageCircle className="h-4 w-4" />
+            <WhatsAppIcon className="h-4 w-4" />
           </a>
         </div>
         <p className="text-xs text-foreground/60">
@@ -798,7 +798,7 @@ function WhatsFloat() {
       className="fixed bottom-6 right-6 z-50 grid h-14 w-14 place-items-center rounded-full text-white shadow-[0_15px_40px_-10px_rgba(37,211,102,0.6)] transition-transform hover:scale-110"
       style={{ background: "#25D366" }}
     >
-      <MessageCircle className="h-6 w-6" />
+      <WhatsAppIcon className="h-6 w-6" />
       <span
         className="absolute inset-0 -z-10 animate-ping rounded-full opacity-40"
         style={{ background: "#25D366" }}
