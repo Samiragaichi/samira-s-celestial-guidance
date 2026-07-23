@@ -345,52 +345,35 @@ function About() {
             Quem é Taróloga Samira?
           </h2>
           <p className="mt-6 text-base leading-relaxed text-foreground/80">
-            Sou Taróloga Samira, mas você pode me chamar de Sami ou Sa.
+            Olá, eu sou Taróloga Samira, mas você pode me chamar de Sami ou Sá.
           </p>
           <p className="mt-4 text-base leading-relaxed text-foreground/80">
-            Nem sempre foi apenas cartomancia apesar de eu ter uma linhagem
-            espiritual (pai e mãe). Sempre amei cuidar de pessoas e usar meu
-            dom para ajudar quem precisa, e com isso o universo me colocou no
-            meio esotérico, terapêutico.
+            Há mais de 12 anos, dedico minha vida a ajudar pessoas por meio do
+            Tarot e da espiritualidade. Venho de uma linhagem espiritual e
+            encontrei nesse caminho o meu verdadeiro propósito: acolher,
+            orientar e levar clareza para quem busca respostas.
           </p>
           <p className="mt-4 text-base leading-relaxed text-foreground/80">
-            Hoje ajudo milhares de pessoas, a mais de 12 anos nesse campo já
-            tive vários altos e baixos, já quis desistir já achei que não era
-            para mim mas me encontrei!
+            Acredito que cada pessoa que chega até mim não é por acaso. Cada
+            consulta é realizada com ética, respeito, sigilo e dedicação,
+            oferecendo direcionamentos para o amor, vida profissional,
+            prosperidade, espiritualidade e desenvolvimento pessoal.
           </p>
           <p className="mt-4 text-base leading-relaxed text-foreground/80">
-            Cada um que chega até mim, eu sei que o universo colocou cada um de
-            vocês em meu caminho pois foi através disso que eu também me achei.
+            Meu compromisso não é dizer apenas o que você deseja ouvir, mas
+            oferecer uma leitura sincera, responsável e acolhedora, ajudando
+            você a compreender seus caminhos e tomar decisões com mais
+            segurança.
           </p>
           <p className="mt-4 text-base leading-relaxed text-foreground/80">
-            Ser Tarologa não é apenas abrir cartas mas conhecer vidas e
-            histórias, ajudar vocês a se encontrar na vida e movimentar energias
-            e a espiritualidade a favor de vocês!
+            Minha história é marcada por resiliência, transformação e
+            renascimento. A espiritualidade transformou minha vida, e hoje meu
+            maior propósito é compartilhar essa força para ajudar cada pessoa
+            que chega até mim a encontrar equilíbrio, esperança e novos caminhos.
           </p>
           <p className="mt-4 text-base leading-relaxed text-foreground/80">
-            Hoje ajudo milhares de pessoas, amo lidar com a espiritualidade, amo
-            ler as cartas e ajudar vocês, hoje eu amo o que eu faço e esse é meu
-            diferencial.
-          </p>
-          <p className="mt-4 text-base leading-relaxed text-foreground/80">
-            Eu não estou aqui apenas para falar o que você quer ouvir ou vender
-            ilusões mas sim ajudar vocês a se encontrar também, pois já fui
-            salva pela espiritualidade e energias, e meu propósito é usar essa
-            força que ganhei para cada um que vem me buscar!
-          </p>
-          <p className="mt-4 text-base leading-relaxed text-foreground/80">
-            Minha história é além de leituras mas sim resiliência e renascimento
-            e a espiritualidade fez e faz parte disso diariamente.
-          </p>
-          <p className="mt-4 text-base leading-relaxed text-foreground/80">
-            Então acredite eu ajudarei você e com certeza você terá resultados
-            pois não é sobre venda é sobre vida, é sobre mudança e acima de tudo
-            sobre eu amar fazer o que eu faço para ajudar cada um que me busca!
-          </p>
-          <p className="mt-4 text-base leading-relaxed text-foreground/80">
-            Eu sou a Samira e eu digo de coração cheio que amo cuidar de cada
-            um de vocês, esse é o meu propósito e com isso ajudarei cada vida
-            que chegar até mim!
+            Será um prazer acolher você e caminhar ao seu lado nessa jornada.
+            Seja muito bem-vindo(a)!
           </p>
           <div className="mt-8 grid grid-cols-3 gap-4">
             {[
