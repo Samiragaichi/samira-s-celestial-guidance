@@ -18,8 +18,10 @@ import {
   User,
 } from "lucide-react";
 import { useState } from "react";
-import samiraHero from "@/assets/samira-hero.jpg";
-import samiraAbout from "@/assets/samira-about.jpg";
+import samiraHeroAsset from "@/assets/samira-hero.png.asset.json";
+import samiraAboutAsset from "@/assets/samira-about.png.asset.json";
+const samiraHero = samiraHeroAsset.url;
+const samiraAbout = samiraAboutAsset.url;
 
 export const Route = createFileRoute("/")({
   component: Landing,
