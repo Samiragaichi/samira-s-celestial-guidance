@@ -634,7 +634,7 @@ const FAQS = [
   },
   {
     q: "Como funciona o pagamento?",
-    a: "O pagamento é feito de forma simples e segura via PIX antes do início do atendimento.",
+    a: "O pagamento é feito de forma simples e segura via PIX, TRANSFERÊCIA ou CARTÃO DE CRÉDITO do início do atendimento.",
   },
   {
     q: "Quanto tempo dura?",
