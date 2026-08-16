@@ -17,10 +17,8 @@ import {
   User,
 } from "lucide-react";
 import { useState } from "react";
-import samiraHeroAsset from "@/assets/samira-hero.png.asset.json";
-import samiraAboutAsset from "@/assets/samira-about.png.asset.json";
-const samiraHero = samiraHeroAsset.url;
-const samiraAbout = samiraAboutAsset.url;
+const samiraHero = "/samira-hero.png";
+const samiraAbout = "/samira-about.png";
 
 function WhatsAppIcon({ className }: { className?: string }) {
   return (
