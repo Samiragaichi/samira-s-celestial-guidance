@@ -141,7 +141,7 @@ function RootShell({ children }: { children: ReactNode }) {
     })(window,document,'script','dataLayer','GTM-WSDGMSRF');
   `}
 </script>
-        
+   </head>    
 <body>
   <noscript>
     <iframe
